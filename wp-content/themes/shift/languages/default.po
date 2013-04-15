@@ -1,0 +1,1268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stag Framework v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-17 12:34+0530\n"
+"PO-Revision-Date: 2013-03-17 12:34+0530\n"
+"Last-Translator: Ram Ratan Maurya <support@codestag.com>\n"
+"Language-Team:  <support@codestag.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../404.php:13
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../archive.php:31
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../archive.php:33 ../archive.php:35 ../archive.php:37
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:39
+msgid "All posts by"
+msgstr ""
+
+#: ../archive.php:41
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:25
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:25
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:38
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: ../comments.php:92
+msgid "Your Comment"
+msgstr ""
+
+#: ../comments.php:93
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:94
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:97
+msgid ""
+"Leave a Comment<span class=\"section-description\">Please be polite. We "
+"appreciate that.</span>"
+msgstr ""
+
+#: ../comments.php:98
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:99
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:100
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:102 ../template-contact.php:96
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:103 ../template-contact.php:101
+msgid "Your Email"
+msgstr ""
+
+#: ../content-aside.php:15 ../content-audio.php:26 ../content-chat.php:21
+#: ../content-gallery.php:38 ../content-image.php:27 ../content-link.php:24
+#: ../content-quote.php:22 ../content-video.php:33 ../content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: ../content-audio.php:17 ../content-chat.php:15 ../content-gallery.php:29
+#: ../content-image.php:20 ../content-meta.php:10 ../content-quote.php:16
+#: ../content-video.php:24 ../content.php:20
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../content-meta-footer.php:4
+msgid "By "
+msgstr ""
+
+#: ../content-meta-footer.php:6
+msgid "In Category "
+msgstr ""
+
+#: ../content-meta.php:20
+msgid "0"
+msgstr ""
+
+#: ../content-meta.php:20
+msgid "1"
+msgstr ""
+
+#: ../content-meta.php:20
+msgid "%"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:47
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:53
+msgid "Widget area for top header overlay. Only static widgets are allowed."
+msgstr ""
+
+#: ../functions.php:56
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Widget area for footer"
+msgstr ""
+
+#: ../functions.php:209
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../search.php:6
+msgid "Search Results for"
+msgstr ""
+
+#: ../search.php:46
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: ../search.php:54
+msgid "Suggestions:"
+msgstr ""
+
+#: ../search.php:56
+msgid "Make sure all words are spelled correctly."
+msgstr ""
+
+#: ../search.php:57
+msgid "Try different keywords."
+msgstr ""
+
+#: ../search.php:58
+msgid "Try more general keywords."
+msgstr ""
+
+#: ../taxonomy-post_format.php:20
+msgid "Archives: "
+msgstr ""
+
+#: ../taxonomy-post_format.php:21
+msgid " Posts"
+msgstr ""
+
+#: ../template-contact.php:6
+msgid "Please enter your name."
+msgstr ""
+
+#: ../template-contact.php:7
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../template-contact.php:8
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../template-contact.php:9
+msgid "Please enter a message."
+msgstr ""
+
+#: ../template-contact.php:82
+msgid "Send a Direct Message"
+msgstr ""
+
+#: ../template-contact.php:82
+msgid "I will get back to you soon"
+msgstr ""
+
+#: ../template-contact.php:87
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../template-contact.php:107
+msgid "Your Message"
+msgstr ""
+
+#: ../template-contact.php:112
+msgid "Send Message"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:170
+#: ../framework/stag-admin-functions.php:249
+msgid "Remove"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:402
+msgid "Add New"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:403
+#: ../framework/stag-admin-functions.php:427
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:404
+#: ../framework/stag-admin-functions.php:425
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:405
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:406
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:407
+#: ../framework/stag-admin-functions.php:420
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:408
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:409
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:421
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:422
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:426
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:428
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:429
+#, php-format
+msgid "Separate %s with commas"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:430
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:431
+#, php-format
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: ../framework/stag-admin-functions.php:486
+#: ../framework/stag-admin-page-update.php:14
+#, php-format
+msgid ""
+"<strong>There is a new version of the %s theme available.</strong> You have "
+"version %s installed. <a href=\"%s\">Update to version %s</a>."
+msgstr ""
+
+#: ../framework/stag-admin-init.php:56
+#: ../framework/stag-theme-functions.php:243
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/stag-admin-init.php:57
+msgid "Advanced"
+msgstr ""
+
+#: ../framework/stag-admin-page-options.php:9
+#, php-format
+msgid "%s activated, please save settings before leaving this page."
+msgstr ""
+
+#: ../framework/stag-admin-page-options.php:65
+msgid "Reset settings"
+msgstr ""
+
+#: ../framework/stag-admin-page-options.php:66
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/stag-admin-page-options.php:83
+msgid "You do not have sufficient permissions to save these options."
+msgstr ""
+
+#: ../framework/stag-admin-page-options.php:96
+msgid "Settings Successfully Saved!"
+msgstr ""
+
+#: ../framework/stag-admin-page-options.php:109
+msgid "You do not have sufficient permissions to reset these options."
+msgstr ""
+
+#: ../framework/stag-admin-page-update.php:7
+msgid "Theme Updates"
+msgstr ""
+
+#: ../framework/stag-admin-page-update.php:39
+#: ../framework/stag-admin-page-update.php:45
+msgid "Changelog"
+msgstr ""
+
+#: ../framework/stag-admin-page-update.php:50
+msgid "<p>Error: Unable to fetch the changelog.</p>"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:10
+msgid "Button URL"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:11
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:15
+msgid "Button Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:16
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:30
+msgid "Button Size"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:31
+msgid "Select the button's size"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:40
+msgid "Button Type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:41
+msgid "Select the button's type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:49
+msgid "Button Target"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:50
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:59
+msgid "Button's Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:60
+msgid "Add the button's text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:64
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:74
+msgid "Alert Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:75
+msgid "Select the alert's style, ie the alert colour"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:88
+msgid "Alert Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:89
+msgid "Add the alert's text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:93
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:103
+msgid "Toggle Content Title"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:104
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:110
+msgid "Toggle Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:111
+msgid "Add the toggle content. Will accept HTML"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:115
+msgid "Toggle State"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:116
+msgid "Select the state of the toggle on page load"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:125
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:134
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:140
+msgid "Tab Title"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:141
+msgid "Title of the tab"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:146
+msgid "Tab Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:147
+msgid "Add the tabs content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:151
+msgid "Add Tab"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:158
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:165
+msgid "Column Type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:166
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:195
+msgid "Column Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:196
+msgid "Add the column content."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:200
+msgid "Add Column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:213
+msgid "Author Name"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:214
+msgid "Select the User to display."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:219
+#: ../framework/shortcodes/tinymce/config.php:235
+msgid "Insert Author Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:228
+msgid "Intro Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:229
+msgid "Enter the intro text."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:243
+msgid "Divider"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:244
+msgid "Select the style of the Divider"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:259
+msgid "Insert Divider"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:269
+msgid "Code"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:270
+msgid "Input your code without code tags."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:274
+msgid "Code Type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:275
+msgid "Select the type of code you are using."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:287
+msgid "Highlight Lines"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:288
+msgid "Enter the lines to highlight. For example: 3,5-7,10"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:292
+msgid "Insert Code Shortcode"
+msgstr ""
+
+#: ../framework/updater/framework-update.php:6
+msgid "Stag Framework Update"
+msgstr ""
+
+#: ../includes/post-likes.php:49
+msgid "Like this"
+msgstr ""
+
+#: ../includes/post-likes.php:52
+msgid "You already like this"
+msgstr ""
+
+#: ../includes/meta/meta-page.php:9
+msgid "Page Color Scheme Settings"
+msgstr ""
+
+#: ../includes/meta/meta-page.php:10
+msgid "Here you can customize color scheme of this page."
+msgstr ""
+
+#: ../includes/meta/meta-page.php:16 ../includes/meta/meta-post.php:16
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/meta/meta-page.php:17 ../includes/meta/meta-post.php:17
+msgid "Choose background image for this post."
+msgstr ""
+
+#: ../includes/meta/meta-page.php:23 ../includes/meta/meta-post.php:23
+msgid "Background Image Opacity"
+msgstr ""
+
+#: ../includes/meta/meta-page.php:24 ../includes/meta/meta-post.php:24
+msgid ""
+"Choose background image opacity for this post e.g. 50 for 50% opacity. This "
+"will override the default opacity, which is 5%."
+msgstr ""
+
+#: ../includes/meta/meta-page.php:30 ../includes/options/styling-options.php:9
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/meta/meta-page.php:31
+msgid "Choose background color for this page."
+msgstr ""
+
+#: ../includes/meta/meta-page.php:38
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/meta/meta-page.php:39
+msgid "Choose text color for this page."
+msgstr ""
+
+#: ../includes/meta/meta-page.php:46
+msgid "Link Color"
+msgstr ""
+
+#: ../includes/meta/meta-page.php:47
+msgid "Choose link color for this page."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:9
+msgid "Custom Background Settings"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:10
+msgid "Here you can set a custom background for this post."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:36
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:37
+msgid "Set up your gallery"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:43
+msgid "Upload Images"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:44
+msgid "Upload gallery images."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:49
+msgid "Choose Images"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:58
+msgid "Link Settings"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:59
+msgid "Input your link"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:65
+msgid "Link"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:66
+msgid "Input your link e.g. http://codestag.com"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:78
+msgid "Quote Settings"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:79 ../includes/meta/meta-post.php:86
+msgid "Input your quote"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:85
+msgid "The Quote"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:98
+msgid "Audio Settings"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:99
+msgid "This setting enables you to embed audio for this post."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:105
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:106
+msgid "Enter URL to .mp3 file."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:112
+msgid "OGA File URL"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:113
+msgid "Enter URL to .oga, .ogg file."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:124
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:125
+msgid "This setting enables you to embed video for this post."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:131
+msgid "M4V File URL"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:132
+msgid "Enter URL to .m4v video file."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:138
+msgid "OGV File URL"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:139
+msgid "Enter URL to .ogv video file."
+msgstr ""
+
+#: ../includes/meta/meta-post.php:145
+msgid "Embedded Code"
+msgstr ""
+
+#: ../includes/meta/meta-post.php:146
+msgid ""
+"If you are using a video other than self-hosted such as YouTube or Vimeo, "
+"paste the embed code here.<br><br>This field will override the above."
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:8
+msgid "SEO Settings"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:9
+msgid "Customize the SEO settings of your posts/pages"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:15
+msgid "Title"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:16
+msgid ""
+"Enter the post title, most search engines use a maximum of 60 characters."
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:22
+msgid "Description"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:23
+msgid ""
+"Enter the post SEO description, most search engines use a maximum of 160 "
+"characters."
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:29
+msgid "Keywords"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:30
+msgid "A comma separated list of keywords"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:36
+msgid "Meta Robots Index"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:37
+msgid "Do you want robots to index this page?"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:44
+msgid "Meta Robots Follow"
+msgstr ""
+
+#: ../includes/meta/meta-seo.php:45
+msgid "Do you want robots to follow links from this page?"
+msgstr ""
+
+#: ../includes/options/general-settings.php:7
+msgid "Plain Text Logo"
+msgstr ""
+
+#: ../includes/options/general-settings.php:8
+msgid ""
+"Check this box to enable a plain text logo rather than an image logo. Will "
+"use your site title."
+msgstr ""
+
+#: ../includes/options/general-settings.php:15
+msgid "Custom Logo Upload"
+msgstr ""
+
+#: ../includes/options/general-settings.php:16
+msgid "Upload a logo for your theme."
+msgstr ""
+
+#: ../includes/options/general-settings.php:19
+#: ../includes/options/general-settings.php:27
+msgid "Upload Image"
+msgstr ""
+
+#: ../includes/options/general-settings.php:23
+msgid "Custom Favicon Upload"
+msgstr ""
+
+#: ../includes/options/general-settings.php:24
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your website's "
+"favicon. Use <a href=\"http://www.xiconeditor.com/\" target=\"_blank\" rel="
+"\"nofollow\">X-Icon Editor</a> to easily create a favicon."
+msgstr ""
+
+#: ../includes/options/general-settings.php:31
+msgid "Contact Form Email Address"
+msgstr ""
+
+#: ../includes/options/general-settings.php:32
+msgid ""
+"Enter the <code>email address</code> where you'd like to receive emails from "
+"the contact form, or leave blank to use admin email."
+msgstr ""
+
+#: ../includes/options/general-settings.php:38
+msgid "Tracking Code"
+msgstr ""
+
+#: ../includes/options/general-settings.php:39
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. It will be "
+"inserted before the closing body tag of your theme."
+msgstr ""
+
+#: ../includes/options/general-settings.php:45
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../includes/options/general-settings.php:46
+msgid "Enter the text to display in footer copyright area."
+msgstr ""
+
+#: ../includes/options/general-settings.php:53
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: ../includes/options/general-settings.php:54
+#: ../includes/options/general-settings.php:63
+msgid "Enter the length of post excerpt for blog page."
+msgstr ""
+
+#: ../includes/options/general-settings.php:62
+msgid "Post Excerpt Text"
+msgstr ""
+
+#: ../includes/options/general-settings.php:70
+msgid "Disable Admin Bar"
+msgstr ""
+
+#: ../includes/options/general-settings.php:71
+msgid "Enable/Disable WordPress Admin Bar for all users."
+msgstr ""
+
+#: ../includes/options/general-settings.php:78
+msgid "Disable SEO Settings"
+msgstr ""
+
+#: ../includes/options/general-settings.php:79
+msgid "Enable/Disable SEO Settings on single posts and pages."
+msgstr ""
+
+#: ../includes/options/header-overlay.php:5
+msgid ""
+"Customize your settings for header overlay. You can insert widgets in "
+"overlay under <a href=\""
+msgstr ""
+
+#: ../includes/options/header-overlay.php:8
+msgid "Enable"
+msgstr ""
+
+#: ../includes/options/header-overlay.php:9
+msgid "Here you can enable or disable the header overlay."
+msgstr ""
+
+#: ../includes/options/header-overlay.php:16
+msgid "Overlay Duration"
+msgstr ""
+
+#: ../includes/options/header-overlay.php:17
+msgid ""
+"Enter the duration between overlay open and close, 100 equals to 1 second."
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:7
+msgid "Standard Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:8
+msgid "Choose background color for Standard Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:15
+msgid "Standard Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:16
+msgid "Choose text color for Standard Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:23
+msgid "Status Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:24
+msgid "Choose background color for Status Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:31
+msgid "Status Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:32
+msgid "Choose text color for Status Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:39
+msgid "Aside Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:40
+msgid "Choose background color for Aside Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:47
+msgid "Aside Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:48
+msgid "Choose text color for Aside Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:55
+msgid "Chat Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:56
+msgid "Choose background color for Chat Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:63
+msgid "Chat Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:64
+msgid "Choose text color for Chat Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:71
+msgid "Link Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:72
+msgid "Choose background color for Link Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:79
+msgid "Link Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:80
+msgid "Choose text color for Link Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:87
+msgid "Quote Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:88
+msgid "Choose background color for Quote Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:95
+msgid "Quote Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:96
+msgid "Choose text color for Quote Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:103
+msgid "Image Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:104
+msgid "Choose background color for Image Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:111
+msgid "Image Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:112
+msgid "Choose text color for Image Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:119
+msgid "Gallery Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:120
+msgid "Choose background color for Gallery Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:127
+msgid "Gallery Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:128
+msgid "Choose text color for Gallery Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:135
+msgid "Audio Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:136
+msgid "Choose background color for Audio Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:143
+msgid "Audio Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:144
+msgid "Choose text color for Audio Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:151
+msgid "Video Post Format Background"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:152
+msgid "Choose background color for Video Post Format"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:159
+msgid "Video Post Format Color"
+msgstr ""
+
+#: ../includes/options/post-formats-background.php:160
+msgid "Choose text color for Video Post Format"
+msgstr ""
+
+#: ../includes/options/social-settings.php:5
+msgid ""
+"Customize your social profile URLs.<br>Quick tip: you can use shortcode "
+"<code>[social url=\"facebook, twitter, dribbble\"]</code> to display social "
+"links anywhere between posts."
+msgstr ""
+
+#: ../includes/options/social-settings.php:8
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/options/social-settings.php:9
+msgid "Enter your facebook profile/page URL"
+msgstr ""
+
+#: ../includes/options/social-settings.php:16
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/options/social-settings.php:17
+msgid "Enter your twitter profile URL"
+msgstr ""
+
+#: ../includes/options/social-settings.php:24
+msgid "Dribbble"
+msgstr ""
+
+#: ../includes/options/social-settings.php:25
+msgid "Enter your dribbble URL"
+msgstr ""
+
+#: ../includes/options/social-settings.php:32
+msgid "Google+"
+msgstr ""
+
+#: ../includes/options/social-settings.php:33
+msgid "Enter your Google+ profile/page URL"
+msgstr ""
+
+#: ../includes/options/social-settings.php:40
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/options/social-settings.php:41
+msgid "Enter your Pinterest profile URL"
+msgstr ""
+
+#: ../includes/options/social-settings.php:48
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/options/social-settings.php:49
+msgid "Enter your Vimeo profile URL"
+msgstr ""
+
+#: ../includes/options/social-settings.php:56
+msgid "Forrrst"
+msgstr ""
+
+#: ../includes/options/social-settings.php:57
+msgid "Enter your Forrrst profile URL"
+msgstr ""
+
+#: ../includes/options/social-settings.php:64
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/options/social-settings.php:65
+msgid "Enter your LinkedIn profile URL"
+msgstr ""
+
+#: ../includes/options/styling-options.php:5
+msgid ""
+"Configure the visual appearance of your theme, or insert any custom CSS. You "
+"can also edit your site color scheme using <a href=\""
+msgstr ""
+
+#: ../includes/options/styling-options.php:10
+msgid "Choose the background color of your site"
+msgstr ""
+
+#: ../includes/options/styling-options.php:17
+msgid "Body Font"
+msgstr ""
+
+#: ../includes/options/styling-options.php:18
+msgid ""
+"Quickly add a custom Google Font for body from <a href=\"http://www.google."
+"com/webfonts/\" target=\"_blank\">Google Font Directory.</a><br>\n"
+"               <code>Example font name: \"Source Sans Pro\"</code>, for "
+"including font weights type <code>Source Sans Pro:400,700,400italic</code>."
+msgstr ""
+
+#: ../includes/options/styling-options.php:26
+msgid "Heading Font"
+msgstr ""
+
+#: ../includes/options/styling-options.php:27
+msgid ""
+"Quickly add a custom Google Font for Headings from <a href=\"http://www."
+"google.com/webfonts/\" target=\"_blank\">Google Font Directory.</a><br>\n"
+"               For font type: <code>\"Source Sans Pro\"</code>, for "
+"including specific font weights <code>Source Sans Pro:400,700,400italic</"
+"code>."
+msgstr ""
+
+#: ../includes/options/styling-options.php:35
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/options/styling-options.php:36
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../includes/widgets/widget-custom-page.php:6
+msgid "Display content from an specific page."
+msgstr ""
+
+#: ../includes/widgets/widget-custom-page.php:8
+msgid "Custom Page"
+msgstr ""
+
+#: ../includes/widgets/widget-custom-page.php:62
+msgid "Select Page:"
+msgstr ""
+
+#: ../includes/widgets/widget-custom-page.php:79
+msgid "This page will be used to display content."
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:8
+msgid "Display Flickr photos from a user's photostream"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:11
+msgid "Custom Flickr Photos"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:68
+#: ../includes/widgets/widget-twitter.php:72
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:73
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:78
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:86
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:94
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:6
+msgid "Display your latest Twitter tweets."
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:8
+msgid "Custom Twitter Feeds"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:77
+msgid "Twitter username:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:82
+msgid "Number of tweets (max 20):"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:87
+msgid "Follow text e.g. Follow on twitter"
+msgstr ""

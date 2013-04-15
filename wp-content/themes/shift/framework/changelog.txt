@@ -1,0 +1,26 @@
+*** StagFramework Changelog ***
+
+28 March 2013 - v1.0.2.1
+  * Fixes a problem with Color Picker under custom meta box
+    - Update file: /framework/css/stag-admin.css
+  * Fixed Radio value issues
+
+22 February 2013 - v1.0.2
+
+  * Framework Updates.
+  * New Minimal & Light Datepicker.
+  * Multiple files add support under theme options.
+  * Performance Tweaks and Clean up.
+  * Updated credential links.
+  * Added new HTML5 Input Types.
+  * Added live documentation links.
+
+28 January 2013 - v1.0.1
+
+  * New Admin Interface.
+  * Removed useless functions and lots of redundant CSS.
+
+12 September 2012 - v1.0.0
+
+  * Initial Release
+  * Massive Functionality

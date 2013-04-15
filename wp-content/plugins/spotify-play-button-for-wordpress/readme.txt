@@ -1,0 +1,69 @@
+=== Spotify Play Button for WordPress ===
+Contributors: Jonk
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9344931
+Tags: spotify, playlist, spotify play button, spotify play button for wordpress
+Requires at least: 3.0.0
+Tested up to: 3.3.1
+Stable tag: 1.01
+
+Spotify Play Button can easily be added to post or page for instant play of album, playlist or song.
+
+Oh, and it has an admin page in WordPress too.
+
+== Description ==
+
+Spotify Play Button easily added to post or page for instant play of album, playlist or song.
+
+Album example: [spotifyplaybutton play="spotify:album:7JggdVIipgSShK1uk7N1hP"]
+
+Playlist example: [spotifyplaybutton play="spotify:user:jonk:playlist:2CFFIqapZ8VqBcB0YTapGF"]
+
+Song example: [spotifyplaybutton play="spotify:track:2qntSA2cwerjTduHPuKnW5"]
+
+Simply right click on album, playlist or song in Spotify and click "Copy Spotify URI" and use that as the value for "play".
+
+You can set the style for your Spotify Play Buttons on the "Spotify Play Button Settings" page under the "Settings" menu (http://YOURBLOG/wp-admin/options-general.php?page=spotifyplaybutton_settings).
+
+You can also add attributes to customize a single Spotify Play Button:
+
+1. view
+
+2. size
+
+3. sizetype
+
+4. type
+
+All of these will override the settings in "Spotify Play Button Settings" for the Spotify Play Button and they are all optional.
+
+Example:
+[spotifyplaybutton play="spotify:album:7JggdVIipgSShK1uk7N1hP" view="coverart" size="500" sizetype="width" theme="white"]
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+1. Upload the folder "spotify-play-button-for-wordpress" to the "/wp-content/plugins/" directory
+
+2. Activate the plugin through the "Plugins" menu in WordPress
+
+3. Go to "Spotify Play Button Settings" under the "Settings" menu (http://YOURBLOG/wp-admin/options-general.php?page=spotifyplaybutton_settings) to make your default settings for your Spotify Play Buttons.
+
+4. Start adding your Spotify Play Buttons!
+
+== Frequently Asked Questions ==
+
+None, yet.
+
+== Screenshots ==
+
+1. The friendly admin page
+2. The nice result
+
+== Changelog ==
+
+= 1.01 =
+* Getting assets right, editing readme
+
+= 1.00 =
+* I feel confident!

@@ -1,0 +1,32 @@
+3 April 2013 - v1.1.1
+
+    Fixes some issues with SoundCloud Player
+
+    *** Updated Files ****
+    * style.css - updated version number, remove height auto for iframe
+    * content-audio.php - added htmlspecialchars_decode() for embed code for decoding HTML tags
+
+2 April 2013 - v1.1
+
+    * New Background Pattern Support for posts and pages
+    * New Prev/Next Pagination Options
+    * Audio embed, support for shortcodes too
+
+    * Update framework v1.0.2.1
+
+    *** Updated Files ***
+    * style.css - updated version number
+    * footer.php - added stripcslashes() for removing slashes
+    * content-image.php/content.php - Post thumbnail linked to post
+    * includes/meta/meta-post.php - Added new meta box for custom background pattern and audio embed
+    * includes/meta/meta-page.php - Added new meta box for custom background pattern
+    * includes/options/general-settings.php - Pagination field
+    * index.php - Pagination condition added
+    * archive.php - Pagination condition added
+    * content-audio.php - Support for embedding audio players
+    * single.php - support for showing related posts
+
+
+19 March 2013 - v1.0
+
+    Initial Release
